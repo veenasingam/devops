@@ -11,6 +11,6 @@
 
       - name: install java openjdk 8 on RedHat
         yum:
-            name: "{{myopenjdkforubuntu}}"
+            name: "{{myopejdkforRedhat}}"
             state: present
         when: ansible_os_family == "RedHat"
