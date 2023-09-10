@@ -8,7 +8,3 @@
 172.31.35.248
 172.31.35.249
 172.31.35.250
-
-[mywebserver:vars]
-myopenjdkforubuntu = openjdk-8-jre
-myopejdkforRedhat = java-1.8.0-openjdk
